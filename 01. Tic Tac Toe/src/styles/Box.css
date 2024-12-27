@@ -23,5 +23,7 @@
     .boxCell {
         height: 30vw;
         width: 30vw;
+        font-size: 20vw;
+        margin: 0.55vw;
     }
 }

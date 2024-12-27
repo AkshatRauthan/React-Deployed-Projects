@@ -20,9 +20,9 @@
 
 @media (max-width: 768px) {
     .boxCell {
-        height: 32vw;
-        width: 32vw;
+        height: 30vw;
+        width: 30vw;
         margin: 1vw;
-        font-size: 32vw;
+        font-size: 30vw;
     }
 }

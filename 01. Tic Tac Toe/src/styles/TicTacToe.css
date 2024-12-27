@@ -63,7 +63,7 @@
     }
 
     .buttonsContainer {
-        flex-direction: column;
+        flex-direction: row;
         padding-top: 1.5rem;
     }
 

@@ -8,7 +8,3 @@
     margin: 0px auto;
     width: fit-content;
 }
-
-Box:nth-child(1), Box:nth-child(3), Box:nth-child(6)  {
-    margin-left: 0px;
-}

@@ -17,3 +17,10 @@
     font-weight: 800;
     background-color: rgb(31,80,123);
 }
+
+@media (max-width: 768px) {
+    .boxCell {
+        height: 30vw;
+        width: 30vw;
+    }
+}

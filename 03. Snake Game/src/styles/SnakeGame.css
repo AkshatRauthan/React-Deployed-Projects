@@ -1,0 +1,13 @@
+.background{
+    min-width: 100vw;
+    min-height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gameArea{
+    height: 80vh;
+    width: 80vw;
+}
